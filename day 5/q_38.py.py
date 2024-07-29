@@ -1,0 +1,5 @@
+print(ord('A'))
+print(ord('A')+3)
+print(ord("0"))
+print(ord("<"))
+print(chr(60))

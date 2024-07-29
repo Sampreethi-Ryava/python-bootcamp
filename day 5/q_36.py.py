@@ -1,0 +1,11 @@
+#string methods
+str=input()
+#print(str.isupper())
+#print(str.islower())
+print(str.numeric())
+#print(str.isdigit())
+#print(str.title())
+#print(str.swapcase())
+#print(str.replace('a','z'))
+#print(str.split())
+#print(str.split('a'))
